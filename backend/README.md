@@ -1,4 +1,4 @@
-# LOL Automated Regression Testing — Backend
+# Automated Regression Testing — Backend
 
 Real-time backend pipeline: polls ADO → orchestrates via Temporal → executes tests via Playwright → analyzes via LangGraph → writes evidence back to ADO.
 
